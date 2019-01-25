@@ -1,2 +1,0 @@
-Manifest_NonUFSFiles_HTML5.txt
-Manifest_UFSFiles_HTML5.txt

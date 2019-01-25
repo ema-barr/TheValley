@@ -1,1 +1,0 @@
-../../../TheValley/TheValley.uproject  /Game/Levels/MainMenu -Messaging -SessionId=EFD692F7454831E3DBFBB6A7D916BBC2 -SessionOwner="r0xstation" -SessionName="Launch On Device" -iterative
