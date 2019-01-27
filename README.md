@@ -1,4 +1,10 @@
 #  The Valley: a new home
+Global game jam 2018
+
+#Look Gameplay
+
+[![Watch the video](https://i.imgur.com/1tUXPPK.jpg)](https://youtu.be/a_mW-o6ztHU)
+
 
 ##### About 
 [en]
